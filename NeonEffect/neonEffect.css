@@ -1,0 +1,11 @@
+#neonText {
+    font-size: 48px;
+    color: #ffffff;
+    text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 20px #ff0000;
+    transition: text-shadow 1s ease-in-out;
+  }
+  
+  #neonText.off {
+    text-shadow: none;
+  }
+  

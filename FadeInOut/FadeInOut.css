@@ -1,0 +1,11 @@
+#fadeBox {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    opacity: 0;
+    transition: opacity 1s;
+  }
+  

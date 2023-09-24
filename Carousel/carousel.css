@@ -1,0 +1,18 @@
+#carousel {
+    width: 300px;
+    height: 200px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .slide {
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 300px;
+    background-size: cover;
+    background-position: center;
+    transition: left 0.5s;
+  }
+  

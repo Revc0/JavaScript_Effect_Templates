@@ -1,0 +1,9 @@
+#searchBar {
+    width: 50px;
+    transition: width 0.4s ease-in-out;
+  }
+  
+  #searchBar:focus {
+    width: 200px;
+  }
+  
